@@ -439,7 +439,7 @@ The lesson taught in this workshop is being piloted and a precise schedule is ye
 	  <u>Resources:</u>
 	  <ul>
 		  <li><a href="{{site.swc_pages}}/python-novice-gapminder">Python Lessons</a></li>
-		  <li><a href="{{site.swc_pages}}/python-novice-gapminder/reference/">Python Quick Reference</a></li>
+		  <li><a href="{{site.swc_pages}}/python-novice-gapminder/reference">Python Quick Reference</a></li>
                   <li><a href="https://www.codecademy.com/learn/python" target="_blank">Codecademy: Interactive Python practice lessons</a></li>
 		  <li><a href="http://rosalind.info/problems/list-view/?location=python-village" target="_blank">Rosalind Python Bioinformatics Practice</a></li>
 		  <li><a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook#gs.mz7KeNQ" target="_blank">Jupyter Notebook tutorial</a></li>
